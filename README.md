@@ -20,9 +20,9 @@ a confident little tetris remake that doesn’t pretend to be more than it is. t
 [*] lightweight, single-file friendly build
 
 [>] run it
-pip install pygame
+'''pip install pygame
 python3 tetris.py
-
+'''
 [∞] vibe
 
 lean. confident. gets the job done without asking permission.
